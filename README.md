@@ -5,17 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sylviequin" alt="sylviequin" /></a> </p>
 
-- 🌱 Desire to keep up with **Advanced data analysis and Machine Learning**
+- Desire to keep up with **Advanced data analysis and Machine Learning**
 
-- 👯 I’m looking for **entry-level opportunities in data analysis or marketing strategy consulting to enrich my desires**
+- I’m looking for **entry-level opportunities in data analysis or marketing strategy consulting to enrich my desires**
 
-- 📝 Regularly stay updates ASAP on: [https://www.linkedin.com/in/sylvia-quinn-a09116280/](https://www.linkedin.com/in/sylvia-quinn-a09116280/)
+- Regularly stay updates on: [https://www.linkedin.com/in/sylvia-quinn-a09116280/](https://www.linkedin.com/in/sylvia-quinn-a09116280/)
 
-- 💬 Committed to **continuous long-life learning, clear communication, and convey the hidden insight that make a difference**
-
-- 📫 Reach me from 💻🚀: **quynhhuong.nguyen@students.mq.edu.au**
-
-- ⚡ Fun fact a' me: **Went from business and marketing decks 📈 to Python scripts 🐍 in serious year 3. Once a business girl, now a tech girl — and never looked back!**
+- Fun fact a' me: **Went from business and marketing decks to Python scripts in serious year 3. Once a business girl, now a tech girl — and never looked back !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
