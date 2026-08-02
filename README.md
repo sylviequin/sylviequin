@@ -9,9 +9,6 @@
 
 - Regularly stay updates on: www.linkedin.com/in/sylvia-quin
 
-
-- Fun fact a' me: **Went from business and marketing decks to Python scripts in serious year 3. Once a business girl, now a tech girl — and never looked back !**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sylvia quinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sylvia quinn" height="30" width="40" /></a>
