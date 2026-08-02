@@ -3,11 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviequin&label=Profile%20views&color=0e75b6&style=flat" alt="sylviequin" /> </p>
 
+### Applied analytics for business decisions
+
 - Desire to keep up with **Advanced data analysis and Machine Learning**
 
-- I'm looking for **entry-level opportunities in data analysis or marketing strategy consulting to grow my skills**
+- I'm a final-year Business Analytics student at Macquarie University, working at the intersection of business judgment and technical execution, turning messy data into decisions someone can actually act on.
 
-- Regularly stay updated on: www.linkedin.com/in/sylvia-quin
+**Currently:** open to entry-level opportunities across data analysis, marketing strategy consulting, energy, and finance.
+
+**Recent highlight:** 1st Place, Best Visualization (Undergraduate), ASA DataViz 2025–2026, for an interactive dashboard analyzing CO₂ emissions and energy mix across 190+ countries (1990–2023), deployed live via Docker on Google Cloud Run.
+
+Background in business administration and econometrics gave me the "why" and "curious", then Macquarie's analytics program is giving me the "how" with variety analytic tool sets.  I like projects that start with a real business question, not a dataset looking for a use.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
