@@ -17,8 +17,9 @@ Background in business administration and econometrics gave me the "why" and "cu
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sylvia-quin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sylvia-quin" height="30" width="40" /></a>
-</p>
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sylvia-quin/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:huongquynh04.vn@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
