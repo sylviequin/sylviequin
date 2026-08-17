@@ -11,8 +11,6 @@
 
 **Currently:** open to entry-level opportunities across data analysis, marketing strategy consulting, energy, and finance.
 
-**Recent highlight:** 1st Place, Best Visualization (Undergraduate), ASA DataViz 2025–2026, for an interactive dashboard analyzing CO₂ emissions and energy mix across 190+ countries (1990–2023), deployed live via Docker on Google Cloud Run.
-
 Background in business administration and econometrics gave me the "why" and "curious", then Macquarie's analytics program is giving me the "how" with variety analytic tool sets.  I like projects that start with a real business question, not a dataset looking for a use.
 
 <h3 align="left">Connect with me:</h3>
